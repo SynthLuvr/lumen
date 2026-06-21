@@ -1,0 +1,12 @@
+diff --git a/dist/cli.js b/dist/cli.js
+index 816a0630b96eb62cb81472ed5526cd00560a35fb..c32cad8eac82e8e6e3041114ff5b8f4cb9c7bb69 100755
+--- a/dist/cli.js
++++ b/dist/cli.js
+@@ -25,6 +25,7 @@ for (const sf of sourceFiles) {
+     if (node.getOverloads().length) continue;
+     if (node.getParentIfKind(SyntaxKind.ClassDeclaration)) continue;
+     if (node.getParentIfKind(SyntaxKind.ObjectLiteralExpression)) continue;
++    if (node.isGenerator()) continue;
+     if (node.getParameters().some((p) => p.getName() === "this")) continue;
+     const name = node.getName();
+     if (!name) continue;
