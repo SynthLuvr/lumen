@@ -1,0 +1,106 @@
+# Glandular fever
+
+> Source: https://www.nhs.uk/conditions/glandular-fever/
+
+**Glandular fever is a viral infection that mostly affects teenagers and young adults. It gets better without treatment, but it can last for weeks and make you feel very ill.**
+
+## Symptoms of glandular fever
+
+Glandular fever is most common in people aged 15 to 24 years old.
+
+Symptoms of glandular fever may include:
+
+- high temperature
+- swollen glands, which may be in the neck, head, armpits, elbows, or groin
+- sore throat
+- a rash, which may be harder to see on black or brown skin
+- headache
+- tiredness
+
+> **📋 Non-urgent advice:**
+>
+> - a very high temperature, or you feel hot, cold or shivery
+> - a severe [sore throat](/symptoms/sore-throat/)
+> - swelling either side of your neck – [swollen glands](/symptoms/swollen-glands/)
+> - extreme tiredness or exhaustion
+> - a sore throat that's not getting better
+
+> **⚠️ Urgent advice:**
+>
+> - difficulty breathing – you may be more short of breath than usual
+> - difficulty and pain when swallowing
+
+> **🚨 Immediate action required:**
+>
+> - cannot swallow, including your own spit (saliva)
+> - have severe difficulty breathing – you're gasping, choking or not able to get words out
+> - have severe stomach pain
+>
+> [Find your nearest A&E](https://www.nhs.uk/service-search/find-an-accident-and-emergency-service/)
+
+> **💡 Information:** Do not drive yourself to A&E. The person you speak to at 999 will give you advice about what to do.
+
+## How to treat glandular fever yourself
+
+Glandular fever should get better by itself, and you should start to feel better within 2 to 4 weeks.
+
+There are some things you can do to help ease the symptoms.
+
+**Do:**
+
+- ✅ rest
+- ✅ drink plenty of fluids to avoiddehydration– drink small sips frequently if it's painful to swallow
+- ✅ take painkillers likeparacetamoloribuprofen(do not give aspirin to children under 16 years old)
+
+**Don't:**
+
+- ❌ do not do strenuous activities like heavy lifting or playing sports
+
+### Video: Self-care for glandular fever
+
+This video explains how to treat glandular fever yourself.
+
+Media last reviewed: 1 June 2026  
+Media review due: 1 June 2029
+
+## How to stop glandular fever spreading
+
+Glandular fever is spread through spit, so you can get it through kissing or by sharing cups or cutlery.
+
+You're infectious for up to 7 weeks before you get symptoms, and you may be infectious for several months after being unwell.
+
+You can go back to work or school as soon as you start to feel better.
+
+To prevent glandular fever spreading:
+
+**Do:**
+
+- ✅ wash your hands regularly
+- ✅ wash anything that may have your spit on it
+
+**Don't:**
+
+- ❌ do not kiss others
+- ❌ do not share cups or cutlery
+- ❌ do not give blood
+
+## What happens at your GP appointment
+
+A GP may order a blood test to confirm if you have glandular fever and to rule out other illnesses, like [tonsillitis](/conditions/tonsillitis/). The blood test will test for the Epstein-Barr virus, which usually causes glandular fever.
+
+The GP will not give you antibiotics. Glandular fever is caused by a virus so antibiotics will not work.
+
+## Glandular fever complications
+
+Most people get better with no problems. But sometimes glandular fever may lead to other problems like:
+
+- liver conditions, such as [hepatitis](/conditions/hepatitis/)
+- heart problems, such as inflammation of the heart
+- kidney problems
+- blood conditions, such as low levels of blood cells called platelets (thrombocytopenia) or [sepsis](/conditions/sepsis/)
+- neurological conditions, such as [Guillain-Barré syndrome](/conditions/guillain-barre-syndrome/) or [Bell's palsy](/conditions/bells-palsy/)
+- a ruptured (burst) spleen
+- long-term tiredness (chronic fatigue) which may last for several months
+
+Page last reviewed: 20 December 2023  
+Next review due: 20 December 2026
