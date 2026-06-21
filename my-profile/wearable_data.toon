@@ -1,0 +1,45 @@
+wearable:
+  device: Oura Ring
+  data_window: "30-day average"
+  metrics[9]:
+    - name: Average sleep duration
+      result_value: "7h 12m"
+      status: Reasonable
+      personalisation_relevance: "Quantity is adequate, quality may be limiting"
+    - name: Sleep score
+      result_value: 68
+      unit: "/100"
+      status: Fair
+      personalisation_relevance: "Supports sleep-quality recommendations"
+    - name: Deep sleep
+      result_value: 43
+      unit: min/night
+      status: Low
+      personalisation_relevance: "Key marker for sleep improvement goal"
+    - name: REM sleep
+      result_value: "1h 24m"
+      status: Acceptable
+      personalisation_relevance: "Not the main sleep bottleneck"
+    - name: Resting heart rate
+      result_value: 61
+      unit: bpm
+      status: "Slightly elevated vs baseline"
+      personalisation_relevance: "May indicate training stress or poor recovery"
+    - name: HRV
+      result_value: 31
+      unit: ms
+      status: "Below personal baseline of 42 ms"
+      personalisation_relevance: "Recovery signal"
+    - name: Readiness score
+      result_value: 62
+      unit: "/100"
+      status: Low-fair
+      personalisation_relevance: "Useful for training/recovery guidance"
+    - name: Bedtime consistency
+      result_value: "±70 min"
+      status: Inconsistent
+      personalisation_relevance: "Behavioural lever before supplements"
+    - name: Late meals
+      result_value: "4 nights/week within 90 min of bed"
+      status: Frequent
+      personalisation_relevance: "Relevant to sleep-quality recommendations"
