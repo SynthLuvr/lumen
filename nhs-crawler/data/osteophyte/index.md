@@ -1,0 +1,41 @@
+# Osteophyte (bone spur)
+
+> Source: https://www.nhs.uk/conditions/osteophyte/
+
+**Osteophytes (bone spurs) are bony lumps that grow on the bones in the spine or around joints. They form when a joint or bone has been damaged by arthritis, but do not always cause problems.**
+
+## Symptoms of an osteophyte
+
+Osteophytes often do not cause any problems. You may only find out you have one when you have an [X-ray](/tests-and-treatments/x-ray/) for another reason.
+
+But they can sometimes cause problems if they rub against bone or muscles, affect your movement or put pressure on nerves.
+
+The main symptom of an osteophyte is pain and stiffness.
+
+Other symptoms depend on where in the body the osteophyte has formed.
+
+They can include:
+
+- pins and needles, numbness or weakness in the arms and legs
+- lumps on joints like the fingers, big toe, heel and ankle
+
+> **📋 Non-urgent advice:**
+>
+> - you have joint pain or stiffness
+> - you have numbness, nerve pain or weakness in any part of your body
+
+## Treatments for osteophytes
+
+Osteophytes only need to be treated if they cause problems such as pain or stiffness.
+
+As osteophytes are closely linked to arthritis, the treatments you might need are the same as treatments for arthritis.
+
+Treatment may include:
+
+- painkillers such as [paracetamol](/medicines/paracetamol-for-adults-old/) and [ibuprofen](/medicines/ibuprofen-for-adults/)
+- [physiotherapy](/tests-and-treatments/physiotherapy/)
+- [losing weight](/live-well/healthy-weight/managing-your-weight/12-tips-to-help-you-lose-weight/) if you're overweight
+- surgery, such as a [hip replacement](/tests-and-treatments/hip-replacement/) or [knee replacement](/tests-and-treatments/knee-replacement/)
+
+Page last reviewed: 22 December 2022  
+Next review due: 22 December 2025

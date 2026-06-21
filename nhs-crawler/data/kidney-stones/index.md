@@ -1,0 +1,81 @@
+# Overview-Kidney stones
+
+> Source: https://www.nhs.uk/conditions/kidney-stones/
+
+**Kidney stones can develop in 1 or both kidneys and most often affect people aged 30 to 60.**
+
+They're quite common, with more than 1 in 10 people affected.
+
+Kidney stones are usually found in the kidneys or in the ureter, the tube that connects the kidneys to your bladder.
+
+They can be extremely painful, and can lead to kidney infections or the kidney not working properly if left untreated.
+
+## Symptoms of kidney stones
+
+You may not notice if you have small kidney stones. You'll usually pee them out without any discomfort.
+
+Larger kidney stones can cause several symptoms, including:
+
+- pain in the side of your tummy (abdomen)
+- severe pain that comes and goes
+- feeling sick or vomiting
+
+[Find out more about the symptoms of kidney stones](/conditions/kidney-stones/symptoms/)
+
+## When to get urgent medical help
+
+You should contact a GP or NHS 111 immediately if:
+
+- you're in severe pain
+- you have a high temperature, or you feel hot, cold or shivery
+- you have blood in your urine
+
+## What causes kidney stones?
+
+Waste products in the blood can occasionally form crystals that collect inside the kidneys.
+
+Over time, the crystals may build up to form a hard stone-like lump.
+
+This is more likely to happen if you:
+
+- do not drink enough fluids
+- are taking some types of medication
+- have a medical condition that raises the levels of certain substances in your urine
+
+[Find out more about the causes of kidney stones](/conditions/kidney-stones/causes/)
+
+After a kidney stone has formed, your body will try to pass it out when you pee.
+
+## Treating and preventing kidney stones
+
+Most kidney stones are small enough to be passed in your pee, and it may be possible to treat the symptoms at home with medication.
+
+Larger stones may need to be broken up or removed with surgery.
+
+[Find out more about treating kidney stones](/conditions/kidney-stones/treatment/)
+
+It's estimated up to half of all people who have had kidney stones will experience them again within the following 5 years.
+
+To avoid getting kidney stones, make sure you drink plenty of water every day so you do not become [dehydrated](/conditions/dehydration/).
+
+It's very important to keep your urine pale in colour to prevent waste products forming into kidney stones.
+
+[Find out more about preventing kidney stones](/conditions/kidney-stones/prevention/)
+
+## The kidneys
+
+The kidneys are 2 bean-shaped organs that are roughly 10cm (4 inches) in length.
+
+They're located towards the back of the abdomen on either side of the spine.
+
+The kidneys remove waste products from the blood. The clean blood is then transferred back into the body and the waste products are passed out of the body when you pee.
+
+### Video: what are kidney stones?
+
+This animation explains how kidneys function, how to prevent kidney stones and the treatment options.
+
+Media last reviewed: 1 April 2024  
+Media review due: 1 April 2027
+
+Page last reviewed: 30 November 2022  
+Next review due: 30 November 2025
