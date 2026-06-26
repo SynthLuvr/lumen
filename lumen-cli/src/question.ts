@@ -28,7 +28,7 @@ type CarryForwardItem = Extract<
 type ToolCallItem = Extract<ResponseOutputItem, { type: "function_call" }> &
   ToolCall;
 
-const MODEL = "gpt-5.4-nano" as const;
+const MODEL = "gpt-4.1-nano" as const;
 
 const SystemMessage = (message: string) =>
   ({

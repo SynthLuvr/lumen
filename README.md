@@ -106,7 +106,7 @@ provides three subcommands:
   embedding API needed
 - **[OpenAI Responses
   API](https://platform.openai.com/docs/api-reference/responses)**
-  (`gpt-5.4-nano`) — function-calling agent that searches Chroma and
+  (`gpt-4.1-nano`) — function-calling agent that searches Chroma and
   composes answers
 - **Input safety guardrail** — every prompt is classified as GREEN /
   AMBER / RED and rewritten before it reaches the model
@@ -230,7 +230,7 @@ When you ask a question, Lumen:
 2.  **Blocks** RED inputs with a safe refusal.
 3.  **Rewrites** GREEN and AMBER inputs to remove injection attempts and
     reframe medical requests as general information.
-4.  **Calls OpenAI** (`gpt-5.4-nano`) with three available tools:
+4.  **Calls OpenAI** (`gpt-4.1-nano`) with three available tools:
     - `search_nhs_condition` — searches the NHS conditions Chroma
       collection
     - `search_healf` — searches the Healf products Chroma collection
