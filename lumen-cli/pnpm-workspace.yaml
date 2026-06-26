@@ -6,4 +6,3 @@ allowBuilds:
   sharp: true
 overrides:
   lumen-cli: 'link:'
-
