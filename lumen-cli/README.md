@@ -38,7 +38,7 @@ and [`pnpm`](https://pnpm.io/).
                         safe prompt       │                                │
                              │            ▼                                │
                              ▼        "I can't help                        │
-                       OpenAI (gpt-5.4-nano)   with that."                 │
+                       OpenAI (gpt-4.1-nano)   with that."                 │
                         with tool calls ───┐                               │
                              │             ├──▶ search_nhs_condition       │
                              │             ├──▶ search_healf               │
@@ -56,7 +56,7 @@ and [`pnpm`](https://pnpm.io/).
 | CLI framework | [Commander.js](https://github.com/tj/commander.js) | Subcommands: `question`, `ingest`, `search` |
 | Vector database | [Chroma](https://docs.trychroma.com/) (v2 REST API) | Stores and retrieves document embeddings |
 | Embeddings | [Transformers.js](https://huggingface.co/docs/transformers.js) (`all-MiniLM-L6-v2`) | Client-side embedding generation — no separate embedding API needed |
-| LLM | [OpenAI Responses API](https://platform.openai.com/docs/api-reference/responses) (`gpt-5.4-nano`) | Function-calling agent that searches Chroma and composes answers |
+| LLM | [OpenAI Responses API](https://platform.openai.com/docs/api-reference/responses) (`gpt-4.1-nano`) | Function-calling agent that searches Chroma and composes answers |
 | Input safety | [OpenAI structured output](https://platform.openai.com/docs/guides/structured-outputs) | Classifies every prompt as GREEN / AMBER / RED and rewrites it before it reaches the main model |
 | Runtime validation | [ArkType](https://arktype.io/) | Runtime schemas for Chroma API responses and tool arguments |
 | Profile data | [TOON format](https://github.com/toon-format/toon) | Customer blood tests, wearable data, and profile |
@@ -224,7 +224,7 @@ This is the primary command. It:
 2.  If RED: returns a safe refusal and exits.
 3.  If GREEN or AMBER: rewrites the prompt to remove any injection
     attempts and reframe medical requests as general information.
-4.  Sends the rewritten prompt to OpenAI (`gpt-5.4-nano`) with three
+4.  Sends the rewritten prompt to OpenAI (`gpt-4.1-nano`) with three
     available tools:
     - `search_nhs_condition` — searches the NHS conditions Chroma
       collection

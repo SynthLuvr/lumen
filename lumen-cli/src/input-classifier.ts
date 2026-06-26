@@ -15,7 +15,7 @@ const RED_INPUT_RESPONSE =
   "I'm here to help with general wellness information and product guidance. I can't help with that request.";
 
 const INPUT_CLASSIFIER_MODEL =
-  process.env["INPUT_CLASSIFIER_MODEL"] ?? "gpt-5.4-nano";
+  process.env["INPUT_CLASSIFIER_MODEL"] ?? "gpt-4.1-nano";
 
 const ALLOWED_CLASSIFICATIONS = new Set<SafetyClassification>([
   "GREEN",
