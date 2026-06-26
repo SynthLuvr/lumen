@@ -35,7 +35,7 @@
     "@ast-grep/cli-linux-x64-gnu": "^0.43.0",
     "@biomejs/biome": "^2.5.0",
     "@types/node": "^26.0.0",
-    "convert-to-arrow": "^1.0.21",
+    "convert-to-arrow": "^1.1.4",
     "npm-run-all2": "^9.0.2",
     "oxlint": "^1.70.0",
     "oxlint-tsgolint": "^0.23.0",

@@ -6,5 +6,4 @@ allowBuilds:
   sharp: true
 overrides:
   lumen-cli: 'link:'
-patchedDependencies:
-  convert-to-arrow@1.0.21: patches/convert-to-arrow@1.0.21.patch
+
